@@ -1,4 +1,4 @@
-# Project Title:- Analysis of Fincorp Lending Data to Evaluate the Lending Process/Fraud Detection and Improve it's Market Offerings. 
+# Project Title:- Analysis of Fincorp Lending Data to Evaluate the Lending Process/Fraud Detection and Improve it's Market Offerings
 
 ### Project Context:- 
 
